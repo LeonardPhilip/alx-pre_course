@@ -1,1 +1,4 @@
-My first readme
+
+clear
+cd
+cd /root
